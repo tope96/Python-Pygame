@@ -1,3 +1,5 @@
 # PSM
-- hello there
-- general Readme!
+To run the program:
+  ```
+  python Area.py
+  ```
